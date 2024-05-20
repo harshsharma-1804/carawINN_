@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---------------- */
+
+input:focus {
+    outline: none;
+    border-color: #ccc;
+}
+
